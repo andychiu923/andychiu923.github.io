@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andychiu923.github.io/post/first_post/</loc>
+    <loc>https://andychiu923.github.io/2017/10/my-first-post/</loc>
     <lastmod>2017-10-16T10:57:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://andychiu923.github.io/</loc>
     <lastmod>2017-10-16T10:57:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andychiu923.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   

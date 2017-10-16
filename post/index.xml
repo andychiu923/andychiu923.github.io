@@ -5,8 +5,7 @@
     <link>https://andychiu923.github.io/post/</link>
     <description>Recent content in Posts on Andy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language>
-    <copyright>All rights reserved - 2017</copyright>
+    <language>zh-tw</language>
     <lastBuildDate>Mon, 16 Oct 2017 10:57:03 +0800</lastBuildDate>
     
 	<atom:link href="https://andychiu923.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -14,12 +13,14 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://andychiu923.github.io/post/first_post/</link>
+      <link>https://andychiu923.github.io/2017/10/my-first-post/</link>
       <pubDate>Mon, 16 Oct 2017 10:57:03 +0800</pubDate>
       
-      <guid>https://andychiu923.github.io/post/first_post/</guid>
+      <guid>https://andychiu923.github.io/2017/10/my-first-post/</guid>
       <description>Hello World!
-This is my first post on Github Page!</description>
+This is my first post on Github Page!
+test
+test</description>
     </item>
     
   </channel>
